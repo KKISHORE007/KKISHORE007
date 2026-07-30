@@ -1,10 +1,10 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Kishore%20K&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Java%20%C2%B7%20AI%2FML&descAlignY=58&descAlign=50" />
 <br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=flat-square&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](#)
-[![Gmail](https://img.shields.io/badge/kkishore.tsp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kkishore.tsp@gmail.com)
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:kkishore.tsp@gmail.com"><img src="https://img.shields.io/badge/kkishore.tsp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
 <br>
 
