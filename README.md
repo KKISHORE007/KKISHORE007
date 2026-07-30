@@ -134,7 +134,7 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=KKISHORE007&theme=github-dark-blue&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=KKISHORE007&theme=radical&hide_border=true&background=0D1117" />
 </div>
 <br>
 
