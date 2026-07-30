@@ -1,16 +1,11 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Kishore%20K&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Java%20%C2%B7%20AI%2FML&descAlignY=58&descAlign=50" />
-
 <br>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=flat-square&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](#)
 [![Gmail](https://img.shields.io/badge/kkishore.tsp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kkishore.tsp@gmail.com)
-
 </div>
-
 <br>
 
 ## 🧭 About Me
@@ -24,7 +19,6 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 📍  Karur, Tamil Nadu, India
 💼  Open to internships & full-stack / AI engineering roles
 ```
-
 <br>
 
 ## 🛠️ Tech Stack
@@ -55,7 +49,6 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 </td>
 </tr>
 </table>
-
 <br>
 
 ## 🚀 Featured Projects
@@ -107,7 +100,6 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 </td>
 </tr>
 </table>
-
 <br>
 
 ## 💼 Experience
@@ -124,7 +116,6 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 <td>Completed a structured program spanning full-stack development and AI/ML fundamentals; delivered mentored capstone projects and earned 5 verified certifications.</td>
 </tr>
 </table>
-
 <br>
 
 ## 🏆 Certifications
@@ -133,20 +124,18 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 - Principles of Generative AI — Infosys Springboard
 - Artificial Intelligence Primer — Infosys Springboard
 - Python Foundation — Infosys Springboard
-
 <br>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KKISHORE007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=00FF9C&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKISHORE007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KKISHORE007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=00FF9C&text_color=c9d1d9&v=2" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKISHORE007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=c9d1d9&v=2" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KKISHORE007&theme=github-dark-blue&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=KKISHORE007&theme=github-dark-blue&hide_border=true&background=0D1117" />
 </div>
-
 <br>
 
 <div align="center">
