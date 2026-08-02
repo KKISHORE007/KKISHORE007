@@ -129,9 +129,9 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 ## 📊 GitHub Analytics
 
 <!-- <div align="center">
-<!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=KKISHORE007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=00FF9C&text_color=c9d1d9&v=3" /> --> -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KKISHORE007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=00FF9C&text_color=c9d1d9&v=3" /> 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKISHORE007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=c9d1d9&v=3" />
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=KKISHORE007&theme=radical&hide_border=true&background=0D1117&v=1" />
