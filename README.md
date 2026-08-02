@@ -49,6 +49,24 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
 <br>
 
 ## 🚀 Featured Projects
@@ -60,10 +78,10 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 <p><em>IoT Health Surveillance Platform — Rural NE India</em></p>
 <p>End-to-end IoT sensor pipelines with ML-based prediction to flag water-borne disease outbreaks early. React dashboard lets health workers track risk zones and patient trends in real time.</p>
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-303030?style=flat-square&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/MongoDB-303030?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/ML-303030?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 </td>
 <td width="50%">
@@ -71,10 +89,10 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 <p><em>AI-Augmented Carbon-Footprint Shopping Assistant</em></p>
 <p>Computes carbon-footprint scores at point of purchase, recommends lower-carbon alternatives, and gamifies eco-savings. Custom caching layer over third-party carbon APIs achieves sub-200ms response times.</p>
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Express-303030?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-303030?style=flat-square&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/REST_API-303030?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 </td>
 </tr>
@@ -84,9 +102,9 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 <p><em>Desktop Application</em></p>
 <p>Full CRUD inventory app with role-based access control, stock-level alerts, and automated reporting — built for real operational use, not just a demo.</p>
 <p>
-<img src="https://img.shields.io/badge/Java-303030?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JDBC-303030?style=flat-square&logo=oracle&logoColor=F80000"/>
-<img src="https://img.shields.io/badge/MySQL-303030?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 </td>
 <td width="50%">
@@ -94,8 +112,8 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 <p><em>RAG-Based Document Search</em></p>
 <p>Currently building a retrieval-augmented generation pipeline for semantic document search — exploring vector databases and embedding-based retrieval.</p>
 <p>
-<img src="https://img.shields.io/badge/Python-303030?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/ChromaDB-303030?style=flat-square&logo=databricks&logoColor=00C7B7"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-00C7B7?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 </td>
 </tr>
@@ -128,10 +146,6 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 
 ## 📊 GitHub Analytics
 
-<!-- <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KKISHORE007&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=00FF9C&text_color=c9d1d9&v=3" /> 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKISHORE007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&text_color=c9d1d9&v=3" />
-</div> -->
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=KKISHORE007&theme=radical&hide_border=true&background=0D1117&v=1" />
