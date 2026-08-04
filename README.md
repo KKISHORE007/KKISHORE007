@@ -147,11 +147,15 @@ I've picked up hands-on engineering practice through internships at **Ether Info
 ## 📊 GitHub Analytics
 
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=KKISHORE007&theme=radical&hide_border=true&background=0D1117&v=1" />
-</div>
-<br>
+## 📊 GitHub Analytics
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" />
-</div>    
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=KKISHORE007&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=1F6FEB&text_color=c9d1d9&ring_color=1F6FEB" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KKISHORE007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KKISHORE007&theme=radical&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakNum=00FF9C&sideNums=c9d1d9&currStreakLabel=1F6FEB&sideLabels=c9d1d9&dates=8B949E" alt="GitHub Streak" />
+</div>
