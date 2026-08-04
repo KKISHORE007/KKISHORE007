@@ -1,208 +1,157 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Kishore%20K&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Java%20%C2%B7%20AI%2FML&descAlignY=58&descAlign=50"/>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:kkishore.tsp@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Kishore%20K&fontSize=60&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20Java%20%C2%B7%20AI%2FML&descAlignY=58&descAlign=50" />
+<br>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:kkishore.tsp@gmail.com"><img src="https://img.shields.io/badge/kkishore.tsp@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </div>
+<br>
 
----
+## 🧭 About Me
 
-# 👋 About Me
+B.Tech Information Technology student at **V.S.B. Engineering College** (2024–2027), building full-stack and AI-augmented products across the MERN stack, Java, and applied machine learning. My work spans IoT health surveillance, sustainability-focused e-commerce tooling, and production-style CRUD systems — with a consistent focus on clean architecture and scalable, maintainable code.
 
-🎓 B.Tech Information Technology Student at **V.S.B. Engineering College (2024–2027)**
-
-💻 Passionate Full Stack Developer specializing in **MERN Stack**, **Java**, and **AI/ML**.
-
-🚀 Interested in scalable web applications, AI-powered systems, and modern software engineering.
+I've picked up hands-on engineering practice through internships at **Ether Infotech** and **Infosys Springboard**, and I'm currently deepening my work in retrieval-augmented (RAG) systems.
 
 ```
-📍 Karur, Tamil Nadu
-🎓 B.Tech IT (2024-2027)
-💼 Open to Internships
+🎓  B.Tech IT · V.S.B. Engineering College · 2024–2027
+📍  Karur, Tamil Nadu, India
+💼  Open to internships & full-stack / AI engineering roles
 ```
+<br>
 
----
+## 🛠️ Tech Stack
 
-# 🛠 Tech Stack
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### Languages
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=js,java,python,html,css" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
-</p>
+**Frontend & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 
-### Frameworks
+</td>
+<td valign="top" width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
-</p>
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-### Database
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🏥 Smart Community Health Monitoring
-
-IoT + AI platform for disease prediction and real-time monitoring.
-
-**Tech Stack**
-
-- React
-- Node.js
-- MongoDB
-- Machine Learning
-
----
-
-## 🛒 EcoBazaarX
-
-AI-powered carbon footprint shopping assistant.
-
-**Tech Stack**
-
-- React
-- Express
-- MongoDB
-- REST APIs
-
----
-
-## 📦 Inventory Management System
-
-Desktop CRUD application with role-based access and stock management.
-
-**Tech Stack**
-
-- Java
-- JDBC
-- MySQL
-
----
-
-## 🔍 RAG Based Document Search (In Progress)
-
-Semantic document retrieval using embeddings and vector databases.
-
----
-
-# 💼 Experience
-
-### Ether Infotech
-
-**Web Development Trainee**
-
-Dec 2024 – Jan 2025
-
-- Responsive UI Development
-- Bug Fixes
-- Agile Workflow
-
----
-
-### Infosys Springboard
-
-**Full Stack & AI Virtual Intern**
-
-2025
-
-- Full Stack Development
-- AI/ML
-- 5 Certifications
-
----
-
-# 🏆 Certifications
-
-- 🥇 Programming in Java — NPTEL Elite
-- 🤖 Principles of Generative AI
-- 🧠 Artificial Intelligence Primer
-- 🐍 Python Foundation
-
----
-
-# 📊 GitHub Analytics
+</td>
+</tr>
+</table>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KKISHORE007&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKISHORE007&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KKISHORE007&theme=github-dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KKISHORE007&theme=github_dark"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=KKISHORE007&theme=github-dark-blue&hide_border=true"/>
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
+<br>
 
----
+## 🚀 Featured Projects
 
-# 📈 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KKISHORE007&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://skillicons.dev/icons?i=vercel"/>
-</a>
-
-<a href="mailto:kkishore.tsp@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<table>
+<tr>
+<td width="50%">
+<h3>🏥 Smart Community Health Monitoring</h3>
+<p><em>IoT Health Surveillance Platform — Rural NE India</em></p>
+<p>End-to-end IoT sensor pipelines with ML-based prediction to flag water-borne disease outbreaks early. React dashboard lets health workers track risk zones and patient trends in real time.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
+</td>
+<td width="50%">
+<h3>🛒 EcoBazaarX</h3>
+<p><em>AI-Augmented Carbon-Footprint Shopping Assistant</em></p>
+<p>Computes carbon-footprint scores at point of purchase, recommends lower-carbon alternatives, and gamifies eco-savings. Custom caching layer over third-party carbon APIs achieves sub-200ms response times.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>📦 Inventory Management System</h3>
+<p><em>Desktop Application</em></p>
+<p>Full CRUD inventory app with role-based access control, stock-level alerts, and automated reporting — built for real operational use, not just a demo.</p>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+</td>
+<td width="50%">
+<h3>🔍 In Progress</h3>
+<p><em>RAG-Based Document Search</em></p>
+<p>Currently building a retrieval-augmented generation pipeline for semantic document search — exploring vector databases and embedding-based retrieval.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-00C7B7?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+</td>
+</tr>
+</table>
+<br>
 
----
+## 💼 Experience
+
+<table>
+<tr>
+<td width="15%"><b>Dec 2024 – Jan 2025</b></td>
+<td width="35%"><b>Web Development Trainee</b><br/>Ether Infotech, Coimbatore</td>
+<td width="50%">Built responsive UI components with HTML5/CSS3/JS in a live client environment; collaborated on feature delivery and bug fixes following agile practices.</td>
+</tr>
+<tr>
+<td><b>2025</b></td>
+<td><b>Full Stack & AI Virtual Intern</b><br/>Infosys Springboard</td>
+<td>Completed a structured program spanning full-stack development and AI/ML fundamentals; delivered mentored capstone projects and earned 5 verified certifications.</td>
+</tr>
+</table>
+<br>
+
+## 🏆 Certifications
+
+- Programming in Java — Elite Medal, NPTEL (2025)
+- Principles of Generative AI — Infosys Springboard
+- Artificial Intelligence Primer — Infosys Springboard
+- Python Foundation — Infosys Springboard
+<br>
+
+## 📊 GitHub Analytics
+
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer"/>
-
+<img src="https://streak-stats.demolab.com/?user=KKISHORE007&theme=radical&hide_border=true&background=0D1117&v=1" />
 </div>
+<br>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" />
+</div>    
